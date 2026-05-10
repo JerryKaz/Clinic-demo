@@ -61,9 +61,9 @@ The project demonstrates how traditional Java Swing applications can be redesign
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🧑‍⚕️ Patient Management
+###  Patient Management
 
 * Student and staff registration
 * Digital patient records
@@ -71,14 +71,14 @@ The project demonstrates how traditional Java Swing applications can be redesign
 * Blood group and genotype records
 * Contact and academic information storage
 
-### ❤️ Vitals Monitoring
+### Vitals Monitoring
 
 * Blood pressure recording
 * Temperature tracking
 * Weight and pulse monitoring
 * Abnormal vitals warning system
 
-### 🩺 Doctor Module
+###  Doctor Module
 
 * Patient history review
 * Diagnosis recording
